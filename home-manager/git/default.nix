@@ -7,5 +7,5 @@
     init.defaultBranch = "main";
   };
   programs.git.userName = "9yokuro";
-  programs.git.userEmail = "119095935+9yokuro@users.noreply.github.com";
+  programs.git.userEmail = "xzstd099@protonmail.com";
 }
