@@ -1,5 +1,5 @@
-# dotfiles
-My configuration files.
+# dotfiles-for-nixos
+My configuration files for NixOS.
 
 ![terminal](./images/terminal.png)
 
